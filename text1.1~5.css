@@ -12,8 +12,4 @@ img{border: 2px solid red;}
 .font-family{font-family: "Microsoft Yahei";}
 .font-weight{font-weight: bold;}
 .font-size{font-size: 2em;}
-@font-face{
-	font-family: ziti;
-	src:url("http://api.youziku.com/webfont/CSS/56dfc662f629d80e588dc49e");
-}
 .font-face{font-family:Lobster;}
